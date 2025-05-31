@@ -1,0 +1,22 @@
+{
+    "python": {
+        "easy": [
+            {
+                "question": "What is the difference between a list and a tuple in Python?",
+                "expected_keywords": ["mutable", "immutable", "performance", "use cases"]
+            }
+        ],
+        "medium": [
+            {
+                "question": "Explain the concept of decorators in Python with an example.",
+                "expected_keywords": ["function", "wrapper", "syntax", "use cases"]
+            }
+        ],
+        "hard": [
+            {
+                "question": "How does Python's GIL (Global Interpreter Lock) affect multithreading?",
+                "expected_keywords": ["threading", "multiprocessing", "performance", "limitations"]
+            }
+        ]
+    }
+} 
